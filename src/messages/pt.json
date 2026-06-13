@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "Quiz Cores das Camisas da Copa 2026 - Adivinhe as cores",
+    "description": "Voce consegue adivinhar as cores das camisas titulares dos 48 times da Copa do Mundo 2026? Teste seu conhecimento de futebol!",
+    "tagline": "Quanto voce sabe sobre as camisas da Copa 2026?"
+  },
+  "game": {
+    "title": "Quiz Cores das Camisas da Copa 2026",
+    "subtitle": "Voce consegue adivinhar a cor da camisa titular de cada selecao?",
+    "start": "Comecar Quiz",
+    "nextRound": "Proximo Time",
+    "score": "Pontos",
+    "bestScore": "Melhor Pontuacao",
+    "gameOver": "Apito Final!",
+    "yourScore": "Sua Pontuacao: {score}",
+    "playAgain": "Jogar Novamente",
+    "round": "Time {round}",
+    "correct": "Correto!",
+    "wrong": "Errado!",
+    "pickColor": "Qual e a cor da camisa titular?",
+    "timeLeft": "Tempo restante: {seconds}s",
+    "group": "Grupo",
+    "streak": "sequencia!",
+    "livesLeft": "{lives} vidas restantes",
+    "teamsGuessed": "{count} de {total} times acertados"
+  },
+  "leaderboard": { "title": "Lendas", "allTime": "Lendas de Todos os Tempos", "daily": "Lendas de Hoje", "rank": "Posicao", "player": "Jogador", "score": "Pontos", "empty": "Ainda sem pontuacoes. Seja a primeira lenda!", "you": "Voce" },
+  "comments": { "title": "Zona do Torcedor", "placeholder": "Compartilhe seus pensamentos...", "submit": "Publicar", "username": "Seu nome", "empty": "Ainda sem comentarios. Seja o primeiro!", "scoreBadge": "Pontos: {score}" },
+  "share": { "copy": "Copiar Link", "copied": "Copiado!", "twitter": "Compartilhar no X", "shareText": "Fiz {score} pontos no Quiz de Cores da Copa 2026! Consegue me superar? {url}" },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "q1": "O que e o Quiz de Cores da Copa?",
+    "a1": "E um jogo online gratuito que testa seu conhecimento sobre as cores das camisas titulares dos 48 times da Copa do Mundo FIFA 2026 nos EUA, Mexico e Canada.",
+    "q2": "Como jogar?",
+    "a2": "O nome do time e seu grupo sao mostrados. Escolha a cor que voce acha correta. Respostas corretas dao 10 pontos e ha bonus por sequencias. Voce tem 3 vidas!",
+    "q3": "E gratis?", "a3": "Sim! Completamente gratis, sem necessidade de cadastro.",
+    "q4": "Quantos times tem na Copa 2026?", "a4": "A Copa do Mundo FIFA 2026 e a primeira com 48 times. O torneio e realizado nos Estados Unidos, Mexico e Canada.",
+    "q5": "Posso competir com outros?", "a5": "Com certeza! Confira o ranking de Lendas para se comparar com torcedores do mundo todo.",
+    "q6": "Quais times estao na Copa 2026?", "a6": "Os 48 times incluem gigantes como Brasil, Argentina, Franca, Alemanha, Espanha, Inglaterra e Portugal, alem de estreantes empolgantes como Curacao."
+  },
+  "footer": { "about": "Sobre", "privacy": "Politica de Privacidade", "terms": "Termos de Servico", "contact": "Contato" },
+  "announcement": { "text": "A Copa do Mundo 2026 esta AO VIVO! Quantas cores voce consegue acertar?" }
+}

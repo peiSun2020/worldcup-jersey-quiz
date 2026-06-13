@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "Viktorina tsveta form Chempionata mira 2026 - Ugaday tsveta",
+    "description": "Smozhete li vy ugadat tsveta domashney formy vsekh 48 komand Chempionata mira 2026? Prover svoi znaniya futbola!",
+    "tagline": "Naskolko khorosho vy znayete formu komand CM 2026?"
+  },
+  "game": {
+    "title": "Viktorina form Chempionata mira 2026",
+    "subtitle": "Smozhete li vy ugadat tsvet domashney formy kazhdoy komandy?",
+    "start": "Nachat viktorinu",
+    "nextRound": "Sleduyushchaya komanda",
+    "score": "Ochki",
+    "bestScore": "Luchshiy rezultat",
+    "gameOver": "Finansyy svistok!",
+    "yourScore": "Vashi ochki: {score}",
+    "playAgain": "Igrat snova",
+    "round": "Komanda {round}",
+    "correct": "Pravilno!",
+    "wrong": "Nepravilno!",
+    "pickColor": "Kakoy tsvet ikh domashney formy?",
+    "timeLeft": "Ostalos vremeni: {seconds}s",
+    "group": "Gruppa",
+    "streak": "seriya!",
+    "livesLeft": "Ostalos {lives} zhizney",
+    "teamsGuessed": "{count} iz {total} komand ugadano"
+  },
+  "leaderboard": { "title": "Legendy", "allTime": "Legendy vsekh vremen", "daily": "Legendy segodnya", "rank": "Mesto", "player": "Igrok", "score": "Ochki", "empty": "Poka net rezultatov. Bud pervoy legendoy!", "you": "Vy" },
+  "comments": { "title": "Zona bolelshchikov", "placeholder": "Podeli svoyimi myslyami...", "submit": "Opublikovat", "username": "Vashe imya", "empty": "Poka net kommentariev. Budto pervym!", "scoreBadge": "Ochki: {score}" },
+  "share": { "copy": "Kopirovat ssylku", "copied": "Skopirovano!", "twitter": "Podelitsya v X", "shareText": "Ya nabral {score} ochkov v Viktorine form CM 2026! Smozhete menya pobedit? {url}" },
+  "faq": {
+    "title": "Chasto zadavaemye voprosy",
+    "q1": "Chto takoye Viktorina form CM?",
+    "a1": "Eto besplatnaya onlayn-igra, kotoraya proveryaet, naskolko khorosho vy znayete tsveta domashney formy vsekh 48 komand Chempionata mira FIFA 2026 v SShA, Meksike i Kanade.",
+    "q2": "Kak igrat?",
+    "a2": "Pokazyvaetsya nazvaniye komandy i yeyo gruppa. Vyberite tsvet, kotoryy vy schitayete pravilnym. Pravilnye otvety dayut 10 ochkov, bonusy za seriyu nagrazhday za posledovatelnye pravilnye otvety. U vas 3 zhizni!",
+    "q3": "Eto besplatno?", "a3": "Da! Polnostyu besplatno, registratsiya ne trebuetsya.",
+    "q4": "Skolko komand v CM 2026?", "a4": "Chempionat mira FIFA 2026 - pervyy s 48 komandami. Turnir prokhodit v SShA, Meksike i Kanade.",
+    "q5": "Mogu li ya sorevnovatsya?", "a5": "Konechno! Posmotrite tablitsu liderov Legend.",
+    "q6": "Kakie komandy v CM 2026?", "a6": "48 komand vklyuchayut takie giganty, kak Braziliya, Argentina, Frantsiya, Germaniya, Ispaniya, Angliya i Portugaliya, a takzhe debyutantov, kak Kyurasao."
+  },
+  "footer": { "about": "O nas", "privacy": "Politika konfidentsialnosti", "terms": "Usloviya ispolzovaniya", "contact": "Kontakty" },
+  "announcement": { "text": "Chempionat mira 2026 LIVE! Skolko tsvetov form vy smozhete ugadat?" }
+}

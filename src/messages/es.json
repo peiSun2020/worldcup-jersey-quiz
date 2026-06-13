@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "Quiz Colores de Camisetas del Mundial 2026 - Adivina los colores",
+    "description": "Puedes adivinar los colores de las camisetas de los 48 equipos del Mundial 2026? Pon a prueba tu conocimiento futbolistico!",
+    "tagline": "Cuanto sabes sobre las camisetas del Mundial 2026?"
+  },
+  "game": {
+    "title": "Quiz Colores del Mundial 2026",
+    "subtitle": "Puedes adivinar el color de la camiseta titular de cada equipo?",
+    "start": "Empezar Quiz",
+    "nextRound": "Siguiente Equipo",
+    "score": "Puntos",
+    "bestScore": "Mejor Puntuacion",
+    "gameOver": "Pitazo Final!",
+    "yourScore": "Tu Puntuacion: {score}",
+    "playAgain": "Jugar de Nuevo",
+    "round": "Equipo {round}",
+    "correct": "Correcto!",
+    "wrong": "Incorrecto!",
+    "pickColor": "Cual es el color de su camiseta titular?",
+    "timeLeft": "Tiempo restante: {seconds}s",
+    "group": "Grupo",
+    "streak": "racha!",
+    "livesLeft": "{lives} vidas restantes",
+    "teamsGuessed": "{count} de {total} equipos adivinados"
+  },
+  "leaderboard": { "title": "Leyendas", "allTime": "Leyendas de Todos los Tiempos", "daily": "Leyendas de Hoy", "rank": "Posicion", "player": "Jugador", "score": "Puntos", "empty": "Aun no hay puntuaciones. Se la primera leyenda!", "you": "Tu" },
+  "comments": { "title": "Zona de Aficionados", "placeholder": "Comparte tus pensamientos...", "submit": "Publicar", "username": "Tu nombre", "empty": "Aun no hay comentarios. Se el primero!", "scoreBadge": "Puntos: {score}" },
+  "share": { "copy": "Copiar Enlace", "copied": "Copiado!", "twitter": "Compartir en X", "shareText": "Obtuve {score} puntos en el Quiz de Colores del Mundial 2026! Puedes superarme? {url}" },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "Que es el Quiz de Colores del Mundial?",
+    "a1": "Es un juego gratuito en linea que pone a prueba tu conocimiento sobre los colores de las camisetas titulares de los 48 equipos de la FIFA Copa del Mundo 2026 en USA, Mexico y Canada.",
+    "q2": "Como juego?",
+    "a2": "Se muestra el nombre del equipo y su grupo. Elige el color que creas correcto. Las respuestas correctas dan 10 puntos y hay bonos por rachas. Tienes 3 vidas!",
+    "q3": "Es gratis?", "a3": "Si! Completamente gratis, sin necesidad de registro.",
+    "q4": "Cuantos equipos hay en el Mundial 2026?", "a4": "La FIFA Copa del Mundo 2026 es la primera con 48 equipos. El torneo se celebra en Estados Unidos, Mexico y Canada.",
+    "q5": "Puedo competir con otros?", "a5": "Por supuesto! Consulta la tabla de Leyendas para compararte con aficionados de todo el mundo.",
+    "q6": "Que equipos estan en el Mundial 2026?", "a6": "Los 48 equipos incluyen gigantes como Brasil, Argentina, Francia, Alemania, Espana, Inglaterra y Portugal, asi como emocionantes debutantes como Curacao."
+  },
+  "footer": { "about": "Acerca de", "privacy": "Politica de Privacidad", "terms": "Terminos de Servicio", "contact": "Contacto" },
+  "announcement": { "text": "La Copa del Mundo 2026 esta EN VIVO! Cuantos colores puedes adivinar?" }
+}

@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "WM Trikot Farben Quiz 2026 - Erkennst du die Trikotfarben?",
+    "description": "Kannst du die Heimtrikot-Farben aller 48 Teams der FIFA WM 2026 erraten? Teste dein Fussball-Wissen mit diesem lustigen Farbquiz!",
+    "tagline": "Wie gut kennst du die WM 2026 Trikots?"
+  },
+  "game": {
+    "title": "WM Trikot Farben Quiz 2026",
+    "subtitle": "Kannst du die Heimtrikotfarbe jedes WM-Teams erraten?",
+    "start": "Quiz starten",
+    "nextRound": "Naechstes Team",
+    "score": "Punkte",
+    "bestScore": "Bestpunktzahl",
+    "gameOver": "Abpfiff!",
+    "yourScore": "Deine Punkte: {score}",
+    "playAgain": "Nochmal spielen",
+    "round": "Team {round}",
+    "correct": "Richtig!",
+    "wrong": "Falsch!",
+    "pickColor": "Welche Farbe hat ihr Heimtrikot?",
+    "timeLeft": "Verbleibende Zeit: {seconds}s",
+    "group": "Gruppe",
+    "streak": "Serie!",
+    "livesLeft": "{lives} Leben uebrig",
+    "teamsGuessed": "{count} von {total} Teams erraten"
+  },
+  "leaderboard": { "title": "Legenden", "allTime": "Ewige Legenden", "daily": "Heutige Legenden", "rank": "Rang", "player": "Spieler", "score": "Punkte", "empty": "Noch keine Punkte. Sei die erste Legende!", "you": "Du" },
+  "comments": { "title": "Fan-Zone", "placeholder": "Teile deine Gedanken...", "submit": "Posten", "username": "Dein Name", "empty": "Noch keine Kommentare. Sei der Erste!", "scoreBadge": "Punkte: {score}" },
+  "share": { "copy": "Link kopieren", "copied": "Kopiert!", "twitter": "Auf X teilen", "shareText": "Ich habe {score} Punkte im WM Trikot Farben Quiz 2026 erreicht! Kannst du mich schlagen? {url}" },
+  "faq": {
+    "title": "Haeufig gestellte Fragen",
+    "q1": "Was ist das WM Trikot Farben Quiz?",
+    "a1": "Das WM Trikot Farben Quiz ist ein kostenloses Online-Spiel, das testet, wie gut du die Heimtrikotfarben aller 48 Teams der FIFA WM 2026 in den USA, Mexiko und Kanada kennst.",
+    "q2": "Wie spiele ich?",
+    "a2": "Ein Teamname wird zusammen mit seiner WM-Gruppe angezeigt. Waehle die Farbe, die du fuer das Heimtrikot haelst. Richtige Antworten geben 10 Punkte, Serien-Boni belohnen aufeinanderfolgende richtige Antworten. Du hast 3 Leben!",
+    "q3": "Ist es kostenlos?", "a3": "Ja! Komplett kostenlos, keine Anmeldung noetig.",
+    "q4": "Wie viele Teams sind bei der WM 2026?", "a4": "Die FIFA WM 2026 ist die erste mit 48 Teams, erweitert von zuvor 32. Das Turnier wird in den USA, Mexiko und Kanada ausgetragen.",
+    "q5": "Kann ich gegen andere antreten?", "a5": "Auf jeden Fall! Sieh dir die Legenden-Bestenliste an.",
+    "q6": "Welche Teams sind bei der WM 2026?", "a6": "Die 48 Teams umfassen Fussball-Giganten wie Brasilien, Argentinien, Frankreich, Deutschland, Spanien, England und Portugal sowie spannende Neueinsteiger wie Curacao."
+  },
+  "footer": { "about": "Ueber uns", "privacy": "Datenschutz", "terms": "Nutzungsbedingungen", "contact": "Kontakt" },
+  "announcement": { "text": "FIFA WM 2026 ist LIVE! Wie viele Trikotfarben kannst du erraten?" }
+}
